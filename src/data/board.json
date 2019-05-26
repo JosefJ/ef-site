@@ -1,0 +1,33 @@
+{
+  "project": {
+    "route": "/board",
+    "name": "Executive board",
+    "description": "Guess what these folks do?!",
+    "github": "https://nope",
+    "subpage": "ops.ethereum.org"
+  },
+  "team": {
+    "aya": {
+      "firstName": "Ayako",
+      "lastName": "Miyaguchi",
+      "pic": "https://pbs.twimg.com/profile_images/817908123281170434/coBFEE2V_400x400.jpg",
+      "role": "Executive Director",
+      "bio": "The First of Her Name, The Unburnt, Queen of the Andals, the Rhoynar and the First Men, Queen of Meereen, Khaleesi of the Great Grass Sea, Protector of the Realm, Lady Regent of the Seven Kingdoms, Breaker of Chains and Mother of Dragons."
+    },
+    "patrik": {
+      "firstName": "Patrick",
+      "lastName": "Storchenegger",
+      "pic": "https://icorating.com/cache/images/people/179x179/OtouutmCoWdmohGStqiMxj9aQKbiuEYB2bfrt4xT.jpeg",
+      "role": "Notary",
+      "bio": "The one and only, amazing and forever blazing, much experience, many wow! New generation of a person. Yes, this doesn't make any sense."
+    },
+    "vitalik": {
+      "firstName": "Vitalik",
+      "lastName": "Buterin",
+      "pic": "https://pbs.twimg.com/profile_images/977496875887558661/L86xyLF4_400x400.jpg",
+      "role": "Chief Researcher",
+      "bio": "Non-giver of Ether. The one and only, amazing and forever blazing, much experience, many wow! New generation of a person. Yes, this doesn't make any sense."
+    }
+  }
+}
+
