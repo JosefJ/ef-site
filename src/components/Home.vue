@@ -19,14 +19,14 @@
     </div>
 
     <div class="row">
-      <h1> Activities </h1>
+      <h1> Things we do </h1>
     </div>
     <div class="row">
       <p>
-        Insert some BS ops statement! Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-        Lorem ipsum Insert some BS ops statement! Lorem ipsum Lorem ipsum Lorem ipsum Lorem
-        ipsum Lorem ipsum Insert some BS ops statement! Lorem ipsum Lorem ipsum Lorem ipsum
-        Lorem ipsum Lorem ipsum
+        At the EF mainly focused on fundamental research, development of new Ethereum clients, Smart contract languages
+        and the necessary tooling for dapp developers. Part of the job is advocating for the decentralized technology
+        outside of the blockchain community to help to bridge the adoption gap. We also organize an annual developer
+        focused conference called the Ethereum Devcon.
       </p>
     </div>
   </div>

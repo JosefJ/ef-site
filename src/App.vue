@@ -39,4 +39,5 @@ export default {
   text-align: center;
   color: black;
 }
+
 </style>

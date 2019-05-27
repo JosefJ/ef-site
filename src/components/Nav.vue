@@ -89,7 +89,8 @@ a {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: white;
+  /*background-color: white;*/
+  backdrop-filter: blur(5px);
   min-width: 160px;
   z-index: 1;
   padding-top: 10px;
