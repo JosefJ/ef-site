@@ -17,10 +17,10 @@
     </div>
     <div class="row">
       <p>
-        Insert some BS ops statement! Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-        Lorem ipsum Insert some BS ops statement! Lorem ipsum Lorem ipsum Lorem ipsum Lorem
-        ipsum Lorem ipsum Insert some BS ops statement! Lorem ipsum Lorem ipsum Lorem ipsum
-        Lorem ipsum Lorem ipsum
+        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
       </p>
     </div>
   </div>
