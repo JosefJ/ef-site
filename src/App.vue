@@ -40,4 +40,12 @@ export default {
   color: black;
 }
 
+  body {
+    background-image: url(./assets/ef-diamond-glyph.png);
+    background-position: left;
+    background-position-x: -30vh;
+    background-repeat: no-repeat;
+    background-size: 50vh;
+  }
+
 </style>

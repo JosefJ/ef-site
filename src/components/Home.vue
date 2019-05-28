@@ -1,6 +1,9 @@
 <template>
   <div class="Home">
     <div class="row">
+      <img id="hero" src="../assets/eth-diamond.png">
+    </div>
+    <div class="row">
       <p> Welcome to the Ethereum Foundation (Stiftung Ethereum), the non-profit institution which
         sole purpose is to serves the Ethereum ecosystem! This website serves as a simple intro
         into the organization, its mechanisms and people behind it.</p>
@@ -51,5 +54,7 @@ export default {
     margin-top: 40px;
   }
 
-
+  #hero {
+    height: 33vh;
+  }
 </style>
