@@ -1,0 +1,66 @@
+{
+  "project": {
+    "route": "/sneakcharmers",
+    "name": "Sneak Charmers",
+    "description": "",
+    "github": "",
+    "subpage": ""
+  },
+  "team": {
+     "person1": {
+       "name": "Jason Carver",
+       "role": "Python Builder",
+       "bio": "Since 2017, Jason has contributed in to the python tools listed on py.ethereum.org. This year, his primary focus has been on Trinity, the all-python client used by the EF Research team for Eth2.0. He is based out of San Francisco, CA.",
+       "pic": "https://i.ibb.co/zn538kX/wedding-0102-tiny200x200.jpg",
+       "pic2": "",
+       "github": "https://github.com/carver",
+       "twitter": "https://twitter.com/jasoncarver",
+       "linkedin": "https://www.linkedin.com/in/cryptocarver/",
+       "keybase": "https://keybase.io/jasoncarver"
+     },
+    "person2": {
+      "name": "David Sanders",
+      "role": "Engineer",
+      "bio": "General purpose hacker with interests in ML, prog. lang. design, and distributed tech.  Also occasionally caught playing classical guitar, studying Japanese, or enjoying nature.",
+      "pic": "https://s.gravatar.com/avatar/c991993ee238fbae918f93f46edac3cd?s=460",
+      "pic2": "",
+      "github": "https://github.com/davesque",
+      "twitter": "",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person3": {
+      "name": "Brian Cloutier",
+      "role": "Software Engineer",
+      "bio": "Brian was one of the very first people to lose money mining Bitcoin, anyone remember butterfly labs? At any given moment he's likely to be working on making Ethereum better, backpacking, thinking about cryptocurrencies, or eating sushi.",
+      "pic": "https://photos.app.goo.gl/L1Pkg8DayWrFvjaw5",
+      "pic2": "",
+      "github": "https://github.com/lithp",
+      "twitter": "https://twitter.com/bmc_",
+      "linkedin": "",
+      "keybase": "https://keybase.io/lithp"
+    },
+    "person4": {
+      "name": "Christoph",
+      "role": "Software Engineer",
+      "bio": "Software gardener. Pythoneer. Loving Father. Globetrotter. Cyclist. Working on Trinity the Ethereum client written in Python.",
+      "pic": "https://pbs.twimg.com/profile_images/1040697186185560064/GEoqFeL-_400x400.jpg",
+      "pic2": "",
+      "github": "https://github.com/cburgdorf",
+      "twitter": "https://twitter.com/cburgdorf",
+      "linkedin": "",
+      "keybase": "https://keybase.io/cburgdorf"
+    },
+    "person5": {
+      "name": "Nicholas Lin",
+      "role": "Developer",
+      "bio": "I love movies(sci-fi!) and video games(zombies!).",
+      "pic": "https://drive.google.com/file/d/14T4BD_HFCyKan4rOBvEyAerAKXX0d9ya/view?usp=sharing",
+      "pic2": "https://drive.google.com/open?id=1s2k-k6OVJh_0XqC03jLSVWH0Zwf75VOe",
+      "github": "https://github.com/NIC619",
+      "twitter": "",
+      "linkedin": "",
+      "keybase": ""
+    }
+  }
+}

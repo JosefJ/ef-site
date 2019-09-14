@@ -1,0 +1,89 @@
+{
+  "project": {
+    "route": "/javascript",
+    "name": "JavaScript team",
+    "description": "",
+    "github": "",
+    "subpage": ""
+  },
+  "team": {
+     "person": {
+       "name": "Holger Drewes",
+       "role": "Coordination & Development",
+       "bio": "Open Data + Open Source, Vienna -> Berlin, Developer",
+       "pic": "https://pbs.twimg.com/profile_images/3002201453/c39019b9cfad7b4c6b9b8c2056b5c9ce_400x400.jpeg",
+       "pic2": "",
+       "github": "https://github.com/holgerd77",
+       "twitter": "https://twitter.com/HolgerD77",
+       "linkedin": "",
+       "keybase": ""
+     },
+    "person2": {
+      "name": "Samuel Furter",
+      "role": "Lead Developer",
+      "bio": "I‘m currently leading the development process of web3.js.",
+      "pic": "https://avatars2.githubusercontent.com/u/1699173?s=400&v=4",
+      "pic2": "",
+      "github": "https://github.com/nivida",
+      "twitter": "https://twitter.com/furter_samuel",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person3": {
+      "name": "RicMoo",
+      "role": "Developer + Enthusiast",
+      "bio": "JavaScript Developer with a focus on Security and User Experience.",
+      "pic": "http://static.ricmoo.com/profile.jpg",
+      "pic2": "",
+      "github": "https://github.com/ricmoo/",
+      "twitter": "https://twitter.com/ricmoo",
+      "linkedin": "",
+      "keybase": "https://keybase.io/ricmoo",
+      "peepeth": "https://peepeth.com/ricmoo"
+    },
+    "person4": {
+      "name": "Marc Garreau",
+      "role": "Software Engineer, Technical Writer",
+      "bio": "Marc joined the Ethereum Foundation in 2017, first with the Mist Browser team to improve application performance and state management. He specializes in front-end application architecture and technical writing, authoring Redux in Action, published in 2018.",
+      "pic": "https://i.imgur.com/mF4beYv.jpg",
+      "pic2": "https://i.imgur.com/PVeNMrG.jpg",
+      "github": "https://github.com/marcgarreau",
+      "twitter": "https://twitter.com/wolovim",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person5": {
+      "name": "Everton Fraga",
+      "role": "Software Engineer",
+      "bio": "Automation geek that loves to solve problems",
+      "pic": "https://pbs.twimg.com/profile_images/769250497622601733/bi5biE6M.jpg",
+      "pic2": "",
+      "github": "https://github.com/evertonfraga",
+      "twitter": "https://twitter.com/evertonfraga",
+      "linkedin": "https://www.linkedin.com/in/evertonfraga/",
+      "keybase": "https://keybase.io/everton"
+    },
+    "person6": {
+      "name": "Ryan Ghods",
+      "role": "Developer",
+      "bio": "Ryan works on the Grid team creating a tooling platform for various Ethereum projects in the ecosystem. He also co-authored EIP 1193 to create a long-lasting Ethereum JavaScript Provider API that dapps can rely on.",
+      "pic": "https://avatars3.githubusercontent.com/u/22116?s=460&v=4",
+      "pic2": "",
+      "github": "https://github.com/ryanio",
+      "twitter": "https://twitter.com/ryanghods",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person7": {
+      "name": "philipplgh",
+      "role": "Software Engineer",
+      "bio": "Philipp joined the Ethereum Foundation in 2018 with a focus on Wallet security and browser technologies. He is now working on Ethereum Grid and author of Ethereum Signed Packages.",
+      "pic": "https://avatars3.githubusercontent.com/u/4280481?s=460&v=4",
+      "pic2": "",
+      "github": "https://github.com/PhilippLgh",
+      "twitter": "https://twitter.com/philipplgh",
+      "linkedin": "https://www.linkedin.com/in/philipp-langhans-22993699",
+      "keybase": "https://keybase.io/philipplgh"
+    }
+  }
+}

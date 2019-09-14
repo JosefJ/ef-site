@@ -1,0 +1,55 @@
+{
+  "project": {
+    "route": "/ewasm",
+    "name": "eWASM",
+    "description": "",
+    "github": "",
+    "subpage": ""
+  },
+  "team": {
+     "person1": {
+       "name": "Paweł Bylica",
+       "role": "Developer",
+       "bio": "Software developer specializing in Ethereum Virtual Machine",
+       "pic": "https://lh3.googleusercontent.com/Btnzo4OzHb9I8LkpJMnZYgygKbBkh16U7aOUaTjuvWVnLnL_3pTlyE9cFrYv8vCunf1rWYKHY5Iy6sIuI754aShOyREHALDbhxR3-SfPLbUxaX_wokv9CWkdnduGgdF9qanossJlaNI=s200-no",
+       "pic2": "",
+       "github": "https://github.com/chfast",
+       "twitter": "https://twitter.com/chfast",
+       "linkedin": "",
+       "keybase": ""
+     },
+    "person2": {
+      "name": "Jake Lang",
+      "role": "Developer",
+      "bio": "I live and breathe WebAssembly. Former operating systems enthusiast working on various VM and compiler-related projects at Ewasm. Other interests include cryptography, grand strategy games, and occasionally neurochemistry.",
+      "pic": "https://drive.google.com/file/d/1m87WZGXRH61rPIblsNyqfr21lNqfS6WV/view?usp=sharing",
+      "pic2": "",
+      "github": "https://github.com/jakelang",
+      "twitter": "",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person3": {
+      "name": "Jared Wasinger",
+      "role": "Developer",
+      "bio": "Currently focused on development for EWASM in Eth2.0.  Previously a contributor on testing, EthereumJS and the Parity Ethereum client.",
+      "pic": "https://avatars3.githubusercontent.com/u/3411040?s=400&v=4",
+      "pic2": "",
+      "github": "https://github.com/jwasinger",
+      "twitter": "https://twitter.com/j_wasinger",
+      "linkedin": "https://linkedin.com/in/jared-wasinger-757067104",
+      "keybase": ""
+    },
+    "person4": {
+      "name": "Hugo De la cruz",
+      "role": "Developer",
+      "bio": "Software Developer based in Mexico, working on ewasm (Ethereum WebAssembly), founder of Ethereum Guadalajara (ETHGDL).",
+      "pic": "https://drive.google.com/file/d/1GlUTDeX4sgpifGx2XWCJrPQa0M_IycJ2/view?usp=sharing",
+      "pic2": "",
+      "github": "http://github.com/hugo-dc",
+      "twitter": "http://twitter.com/hugo_dc",
+      "linkedin": "",
+      "keybase": ""
+    }
+  }
+}

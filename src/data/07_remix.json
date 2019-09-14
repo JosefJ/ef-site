@@ -1,0 +1,55 @@
+{
+  "project": {
+    "route": "/remix",
+    "name": "Remix",
+    "description": "",
+    "github": "",
+    "subpage": ""
+  },
+  "team": {
+     "person1": {
+       "name": "Yann300",
+       "role": "Team lead",
+       "bio": "Working at EF since fall 2014, improving development tools, thinking educational perspective and helping involving the community",
+       "pic": "https://ethcc.io/ethcc-2018/images/speakers/24.png",
+       "pic2": "",
+       "github": "https://github.com/yann300",
+       "twitter": "https://twitter.com/Yann300",
+       "linkedin": "https://www.linkedin.com/in/yann-levreau-31218891/",
+       "keybase": ""
+     },
+    "person2": {
+      "name": "iuri matias",
+      "role": "Developer",
+      "bio": "",
+      "pic": "https://avatars3.githubusercontent.com/u/176720?s=400&u=4ce435619752ef274d1298a616946652bdafbe1e&v=4",
+      "pic2": "",
+      "github": "https://github.com/iurimatias",
+      "twitter": "https://twitter.com/iurimatias",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person3": {
+      "name": "Grandschtroumpf",
+      "role": "Developer",
+      "bio": "When I don't teach human to use softwares, I build softwares to teach human to use sofwares. Maybe one day I'll teach softwares how to build software to teach human ...",
+      "pic": "https://avatars3.githubusercontent.com/u/8143464?s=460&v=4",
+      "pic2": "",
+      "github": "https://github.com/GrandSchtroumpf",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/francois-guezengar/",
+      "keybase": ""
+    },
+    "person4": {
+      "name": "lianahus",
+      "role": "Software Engineer",
+      "bio": "Joined EF at the beginning of 2015, right after the Devcon0, was in the Solidity team then moved to the Remix when we start this beautiful project. I speak English, German, Russian and Armenian. I like music, traveling and indoor gardening. ",
+      "pic": "https://drive.google.com/open?id=1Gubf9-kYH8DRPro6TPtjttjhtpAfJizx",
+      "pic2": "",
+      "github": "https://github.com/LianaHus",
+      "twitter": "https://twitter.com/lianahusikyan",
+      "linkedin": "",
+      "keybase": ""
+    }
+  }
+}

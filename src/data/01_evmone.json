@@ -1,0 +1,44 @@
+{
+  "project": {
+    "route": "/",
+    "name": "",
+    "description": "",
+    "github": "",
+    "subpage": ""
+  },
+  "team": {
+    "person1": {
+      "name": "Paweł Bylica",
+      "role": "Developer",
+      "bio": "Software developer specializing in Ethereum Virtual Machine",
+      "pic": "https://lh3.googleusercontent.com/Btnzo4OzHb9I8LkpJMnZYgygKbBkh16U7aOUaTjuvWVnLnL_3pTlyE9cFrYv8vCunf1rWYKHY5Iy6sIuI754aShOyREHALDbhxR3-SfPLbUxaX_wokv9CWkdnduGgdF9qanossJlaNI=s200-no",
+      "pic2": "",
+      "github": "https://github.com/chfast",
+      "twitter": "https://twitter.com/chfast",
+      "linkedin": "",
+      "keybase": ""
+    },
+     "person2": {
+       "name": "Nils-Erik Frantzell",
+       "role": "Developer",
+       "bio": "I dove into crypto in 2017 as a hobby. I read the Bitcoin white paper, followed by the Ethereum yellow paper, then took some online classes and dug into the Aleth source code and started making pull requests. I joined the team soon after and have had a blast ever since!",
+       "pic": "https://drive.google.com/open?id=1V210lxdDN_4Jxrzfnx-wNdsx0Olebiva",
+       "pic2": "https://drive.google.com/open?id=1-sa5Y3nnh5qsKCOG0nbc1og2ZmCJzJHO",
+       "github": "https://github.com/halfalicious",
+       "twitter": "https://twitter.com/halfalicious",
+       "linkedin": "https://www.linkedin.com/in/nilserikfrantzell/",
+       "keybase": ""
+     },
+    "person3": {
+      "name": "Andrei Maiboroda",
+      "role": "Developer",
+      "bio": "Started coding in the last century and can't stop since then.",
+      "pic": "https://www.dropbox.com/s/233a9a4q5s7axap/andryushka.jpg",
+      "pic2": "https://www.dropbox.com/s/mathyrjub23z07o/adryushka_veselo.jpg",
+      "github": "https://github.com/gumb0",
+      "twitter": "https://twitter.com/gumb00",
+      "linkedin": "https://www.linkedin.com/in/andrei-maiboroda/",
+      "keybase": "https://keybase.io/gumbo"
+    }
+  }
+}

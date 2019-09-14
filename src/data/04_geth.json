@@ -1,0 +1,44 @@
+{
+  "project": {
+    "route": "/",
+    "name": "",
+    "description": "",
+    "github": "",
+    "subpage": ""
+  },
+  "team": {
+     "person": {
+       "name": "Zsolt Felföldi",
+       "role": "Developer",
+       "bio": "Zsolt Felföldi is a Go Ethereum core developer working with the Ethereum Foundation since early 2015. During this time he mainly focused on the Geth \"light client\" project (LES) and has also been involved in a new experimental peer discovery DHT project codenamed \"discv5\".",
+       "pic": "https://drive.google.com/open?id=1v31nvAkuDazP3DUeu7XVKot0H92_UsBw",
+       "pic2": "",
+       "github": "https://github.com/zsfelfoldi",
+       "twitter": "",
+       "linkedin": "",
+       "keybase": ""
+     },
+    "person2": {
+      "name": "Adam",
+      "role": "Product manager",
+      "bio": "Math-Philosophy > Programming (Java, Python, Node.js, Clojure) > Startups > Prezi > Ethereum. Programmer > Psychotherapist (Gestalt-therapy) > Speaker (TEDx) > Writer (poetry, (non)fiction) > DevOps > Scrum Master > Engineering Manager > Product Manager.",
+      "pic": "https://miro.medium.com/fit/c/256/256/1*Gf4c9_w8DUGyAj9XAFRjGA.jpeg",
+      "pic2": "",
+      "github": "https://github.com/adamschmideg",
+      "twitter": "https://twitter.com/terepauto",
+      "linkedin": "https://www.linkedin.com/in/adam-schmideg-16957116/",
+      "keybase": ""
+    },
+    "person3": {
+      "name": "ChrisChinchilla",
+      "pic": "https://www.dropbox.com/s/fr1dvat6jwrsish/_DSC0135.jpg?dl=0",
+      "pic2": "https://github.com/ChrisChinchilla/Chinchillas/blob/master/Chinchilla%20Head.png",
+      "role": "Technical Writer",
+      "bio": "Loves to explain tech to the World. Currently working for a handful of Ethereum and non-Ethereum technical projects. Also a Podcaster, video maker and writer of interactive fiction.",
+      "github": "https://github.com/ChrisChinchilla",
+      "twitter": "https://twitter.com/ChrisChinch",
+      "linkedin": "https://www.linkedin.com/in/chrischinchilla/",
+      "keybase": ""
+    }
+  }
+}

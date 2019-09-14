@@ -1,0 +1,22 @@
+{
+  "project": {
+    "route": "/devops",
+    "name": "DevOps",
+    "description": "The team takes care of the development and testing infrastructure effectively supporting all of the other teams.",
+    "github": "",
+    "subpage": ""
+  },
+  "team": {
+     "person": {
+       "name": "Hudson Jameson/Souptacular",
+       "role": "Community Lead/Devops",
+       "bio": "Hudson Jameson is an Ethereum enthusiast and core developer liason with a rich background in blockchain projects. In his spare time he enjoys playing tabletop RPG games and converting VHS tapes to digital mediums.",
+       "pic": "https://imgur.com/aummGjr",
+       "pic2": "https://imgur.com/hsf9IEh",
+       "github": "https://github.com/Souptacular/",
+       "twitter": "https://twitter.com/hudsonjameson",
+       "linkedin": "",
+       "keybase": "https://keybase.io/souptacular"
+     }
+  }
+}

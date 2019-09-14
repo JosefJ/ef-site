@@ -8,11 +8,12 @@
         <div class="four offset-by-five columns menu">
           <ul>
             <li> <router-link to="/"> Home </router-link> </li>
-            <li> <router-link to="/support"> Support </router-link> </li>
+            <li> <a href="https://ess.ethereum.org" target="_blank"> Ecosystem' </a> </li>
             <li>
               <div class="dropdown">
                 <div class="dropbtn">
-                  <router-link to="/team"> Teams </router-link>
+<!--                  <router-link to="/team"> Teams </router-link>-->
+                  <div> Teams </div>
                 </div>
                   <div class="dropdown-content">
                   <router-link :to="'/team' + t.project.route" v-for="t in teams" v-bind:key="t">

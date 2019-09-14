@@ -1,0 +1,67 @@
+{
+  "project": {
+    "route": "/solidity",
+    "name": "Solidity",
+    "description": "The main ",
+    "github": "https://nope",
+    "subpage": "ops.ethereum.org"
+  },
+  "team": {
+    "person1": {
+      "name": "Christian Reitwiessner",
+      "pic": "https://media.licdn.com/dms/image/C4E03AQF736-GqDn9QQ/profile-displayphoto-shrink_200_200/0?e=1570665600&v=beta&t=jpOU9bPpqPkH_sFeHrcUMUHEWW3CasNvLkcXTHw8amQ",
+      "pic2": "",
+      "role": "Solidity co-lead",
+      "bio": " // USE DEVCON BIO ",
+      "github": "https://github.com/chriseth",
+      "twitter": "https://twitter.com/ethchris",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person2": {
+      "name": "Daniel",
+      "pic": "https://avatars1.githubusercontent.com/u/1347491?s=460&v=4",
+      "pic2": "",
+      "role": "Developer",
+      "bio": " - ",
+      "github": "",
+      "twitter": "https://github.com/ekpyron",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person3": {
+      "name": "Leo Alt",
+      "pic": "https://avatars2.githubusercontent.com/u/504195?s=460&v=4",
+      "pic2": "https://imgur.com/eqfsgvI",
+      "role": "Developer",
+      "bio": "Into fun and elegant algorithms and techniques to solve all sorts of things. Mainly compiler optimizations, formal verification of software and outdoor bouldering problems.",
+      "github": "https://github.com/leonardoalt/",
+      "twitter": "https://twitter.com/leonardoalt",
+      "linkedin": "https://github.com/leonardoalt/",
+      "keybase": "https://keybase.io/altl"
+    },
+    "person4": {
+      "name": "Bags",
+      "pic": "https://bshastry.github.io/media/picSquare.JPG",
+      "pic2": "",
+      "role": "Security engineer",
+      "bio": "Bhargava Shastry is a security engineer at the Ethereum foundation. He spends most of his work time finding interesting ways to fuzz test the Solidity compiler-optimizer.",
+      "github": "https://github.com/bshastry",
+      "twitter": "https://twitter.com/ibags",
+      "linkedin": "https://www.linkedin.com/in/bshastry",
+      "keybase": ""
+    },
+    "person5": {
+      "name": "ChrisChinchilla",
+      "pic": "https://www.dropbox.com/s/fr1dvat6jwrsish/_DSC0135.jpg?dl=0",
+      "pic2": "https://github.com/ChrisChinchilla/Chinchillas/blob/master/Chinchilla%20Head.png",
+      "role": "Technical Writer",
+      "bio": "Loves to explain tech to the World. Currently working for a handful of Ethereum and non-Ethereum technical projects. Also a Podcaster, video maker and writer of interactive fiction.",
+      "github": "https://github.com/ChrisChinchilla",
+      "twitter": "https://twitter.com/ChrisChinch",
+      "linkedin": "https://www.linkedin.com/in/chrischinchilla/",
+      "keybase": ""
+    }
+  }
+}
+

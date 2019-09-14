@@ -1,0 +1,57 @@
+{
+  "project": {
+    "route": "/operations",
+    "name": "Operations",
+    "description": "Guess what these folks do?!",
+    "github": "https://nope",
+    "subpage": "ops.ethereum.org"
+  },
+  "team": {
+    "person1": {
+      "name": "JosephSchweitzer",
+      "role": "Communications Lead",
+      "bio": "Hi! I'm Joseph, and auto-bios are not my strong-suit, but for any Comms/PR requests, reach out to Press@Ethereum.org. ;)",
+      "pic": "https://pbs.twimg.com/profile_images/956044978098245632/ViIB4hmY_400x400.jpg",
+      "pic2": "https://pbs.twimg.com/profile_images/1014201882212909061/jaTAlZ8Q_400x400.jpg",
+      "github": "https://github.com/ethjoe",
+      "twitter": "https://twitter.com/@Jbschweitzer",
+      "linkedin": "",
+      "keybase": "",
+      "peepeth": "http://peepeth.com/joe"
+    },
+    "person2": {
+      "name": "Taeyeon",
+      "role": "Operations",
+      "bio": "Taeyeon finds great joy in streaming operations and supporting localization of the website, Ethereum.org. Prior to joining the foundation, Taeyeon worked as a researcher and was a founder of Coinclip, Korea’s first crypto-media, in the early beginnings of Korean crypto market.",
+      "pic": "https://i.ibb.co/bL77VSF/IMG-8909-1.jpg",
+      "pic2": "",
+      "github": "",
+      "twitter": "",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person3": {
+      "name": "Evan Van Ness",
+      "role": "Worker bee",
+      "bio": "Week in Ethereum News publisher",
+      "pic": "https://pbs.twimg.com/profile_images/998079050139627523/TjacgzBB_200x200.jpg",
+      "pic2": "",
+      "github": "https://github.com/EvanVanNessEth",
+      "twitter": "https://twitter.com/evan_van_ness",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person": {
+      "name": "Josef J.",
+      "role": "Oops",
+      "bio": "My bio is organic!",
+      "pic": "",
+      "pic2": "",
+      "github": "https://github.com/JosefJ",
+      "twitter": "https://twitter.com/JosefJelacic",
+      "linkedin": "https://linkedin.com/in/josefjelacic",
+      "keybase": "",
+      "peepeth": "https://peepeth.com/JosefJelacic"
+    }
+  }
+}

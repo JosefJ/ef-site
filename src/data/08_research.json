@@ -1,0 +1,121 @@
+{
+  "project": {
+    "route": "/research",
+    "name": "Research",
+    "description": "",
+    "github": "",
+    "subpage": ""
+  },
+  "team": {
+     "person1": {
+       "name": "Danny Ryan",
+       "role": "Research lead",
+       "bio": "",
+       "pic": "",
+       "pic2": "",
+       "github": "",
+       "twitter": "",
+       "linkedin": "",
+       "keybase": ""
+     },
+    "person2": {
+      "name": "Hsiao-Wei",
+      "role": "Research lead",
+      "bio": "",
+      "pic": "",
+      "pic2": "",
+      "github": "",
+      "twitter": "",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person3": {
+      "name": "Vitalik Buterin",
+      "role": "Research Lead",
+      "bio": "",
+      "pic": "",
+      "pic2": "",
+      "github": "",
+      "twitter": "",
+      "linkedin": "",
+      "keybase": ""
+    },
+    "person4": {
+      "name": "Justin",
+      "role": "Researcher",
+      "bio": "keep calm and buidl on :)",
+      "pic": "https://www.google.com/search?q=justin+drake&source=lnms&tbm=isch&sa=X&ved=0ahUKEwij-_yw6ePjAhVoUhUIHUx5DO0Q_AUIEigC&biw=1421&bih=798#imgrc=P9v5m8Xi4MLiYM:",
+      "pic2": "https://imgur.com/a/ivpOIZq",
+      "github": "https://github.com/justindrake",
+      "twitter": "https://twitter.com/drakefjustin",
+      "linkedin": "https://www.linkedin.com/in/drakefjustin",
+      "keybase": ""
+    },
+    "person5": {
+      "name": "Diederik Loerakker (@protolambda)",
+      "role": "ETH 2.0 researcher, developer",
+      "bio": "Contributing to ETH 2.0 spec research, and leading tooling efforts: test vectors and the Go executable spec, to help client implementers towards cross-client test-nets. Previously a CS student, dropped out to work as tech-lead at a young venture capital, then joined the EF.",
+      "pic": "https://user-images.githubusercontent.com/19571989/62298727-134baf80-b463-11e9-84d2-921b6a4fa13e.png",
+      "pic2": "https://user-images.githubusercontent.com/19571989/62298710-0af37480-b463-11e9-9b5b-51f54e704708.png",
+      "github": "https://github.com/protolambda/",
+      "twitter": "https://twitter.com/protolambda",
+      "linkedin": "https://www.linkedin.com/in/diederik-loerakker/",
+      "keybase": "https://keybase.io/protolambda"
+    },
+    "person6": {
+      "name": "Alex Gluchowski",
+      "role": "Developer - ZK Rollup",
+      "bio": "Alex is a software architect with over 15 years of experience in engineering and startups. He is a co-founder of Matter Labs, an R&D company on a mission to solve blockchain scalability challenge with zero-knowledge proofs.",
+      "pic": "https://web.tresorit.com/l#kXQ71El7hFAK89c7yNACzg",
+      "pic2": "",
+      "github": "http://github.com/gluk64",
+      "twitter": "https://twitter.com/gluk64",
+      "linkedin": "https://www.linkedin.com/in/gluchowski/",
+      "keybase": ""
+    },
+    "person7": {
+      "name": "Kevin Mai-Hsuan Chia",
+      "role": "Developer",
+      "bio": "Pythonista. Dance, music, and movies lover.",
+      "pic": "https://i.imgur.com/HSbMHTB.png",
+      "pic2": "",
+      "github": "https://github.com/mhchia",
+      "twitter": "https://twitter.com/kevinchia0907",
+      "linkedin": "https://www.linkedin.com/in/mhchia",
+      "keybase": ""
+    },
+    "person8": {
+      "name": "Dankrad",
+      "role": "Researcher",
+      "bio": "Researcher working on the Ethereum 2.0 protocol. I'm interested in cryptographic problems, such as MPC-friendly constructions and verifiable delay functions.",
+      "pic": "https://dankradfeist.de/assets/me_s.jpg",
+      "pic2": "https://dankradfeist.de/assets/me_r.jpg",
+      "github": "https://github.com/dankrad/",
+      "twitter": "https://twitter.com/dankrad",
+      "linkedin": "https://www.linkedin.com/in/dankrad-feist-77677339/",
+      "keybase": ""
+    },
+    "person9": {
+      "name": "Aditya Asgaonkar",
+      "role": "Researcher",
+      "bio": "Thinks about protocol design and cryptoeconomics.",
+      "pic": "https://drive.google.com/open?id=1GbuC-kl0Cw4n4DTn6sMSy1gcibHcDK4H",
+      "pic2": "",
+      "github": "https://github.com/adiasg",
+      "twitter": "https://twitter.com/adiasg",
+      "linkedin": "https://www.linkedin.com/in/aditya-asgaonkar",
+      "keybase": ""
+    },
+    "person10": {
+      "name": "Alexey Akhunov",
+      "role": "Developer, Researcher",
+      "bio": "Alexey has been programming since very young age. He discovered Ethereum in 2014, started participating in 2016, full-time from 2017",
+      "pic": "https://pbs.twimg.com/profile_images/974686091113652224/ZFpjH-ke.jpg",
+      "pic2": "",
+      "github": "https://github.com/AlexeyAkhunov",
+      "twitter": "https://twitter.com/adiasg",
+      "linkedin": "https://www.linkedin.com/in/aditya-asgaonkar",
+      "keybase": ""
+    }
+  }
+}

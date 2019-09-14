@@ -1,0 +1,22 @@
+{
+  "project": {
+    "route": "/zokrates",
+    "name": "ZoKrates",
+    "description": "",
+    "github": "",
+    "subpage": ""
+  },
+  "team": {
+     "person": {
+       "name": "Jacob Eberhardt\n",
+       "role": "ZoKrates Teamlead, Researcher@TU Berlin\n",
+       "bio": "I do blockchain research at TU Berlin and as part of this started ZoKrates, a toolbox for zkSNARKs on the Ethereum blockchain.\n",
+       "pic": "https://drive.google.com/file/d/1-RI2GbLQmuXQ0HS8DZF9QxoSyZB9CsN-/view?usp=sharing\n",
+       "pic2": "",
+       "github": "https://github.com/JacobEberhardt\n",
+       "twitter": "",
+       "linkedin": "https://www.linkedin.com/in/jacob-eberhardt-569217151/\n",
+       "keybase": ""
+     }
+  }
+}

@@ -14,3 +14,15 @@ function importAll(r) {
 importAll(req);
 
 export default cache;
+
+// "person3": {
+//   "name": "",
+//     "pic": "",
+//     "pic2": "",
+//     "role": "",
+//     "bio": "",
+//     "github": "",
+//     "twitter": "",
+//     "linkedin": "",
+//     "keybase": ""
+// }

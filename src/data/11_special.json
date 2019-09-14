@@ -1,0 +1,22 @@
+{
+  "project": {
+    "route": "/special",
+    "name": "Special projects",
+    "description": "Very special, much wow!",
+    "github": "",
+    "subpage": ""
+  },
+  "team": {
+     "person": {
+       "name": "Virgil Griffith",
+       "role": "Lead",
+       "bio": "Virgil Griffith has a long history in computer security space.  He also has a PhD in theoretical neuroscience from Caltech.  His Erdős and Bacon number are both 3.",
+       "pic": "https://en.wikipedia.org/wiki/Virgil_Griffith#/media/File:VirgilGriffithFace34.jpg",
+       "pic2": "https://scontent.fsin1-1.fna.fbcdn.net/v/t1.0-9/1909880_10106615956871259_1747390155482207086_n.jpg?_nc_cat=100&_nc_oc=AQmp-KIzhJa2bG9NcIqk-BG6dHiwkNMh7YG1pmRBFPvevyV-EXTeyKxd6ZjoV4ljM0Q&_nc_ht=scontent.fsin1-1.fna&oh=62a92b39751a231e7967a6201f548692&oe=5DE0A9FD",
+       "github": "https://github.com/virgil",
+       "twitter": "http://twitter.com/virgilgr",
+       "linkedin": "https://www.linkedin.com/in/virgilgr/",
+       "keybase": "https://keybase.io/virgil"
+     }
+  }
+}

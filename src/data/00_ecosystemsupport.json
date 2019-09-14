@@ -1,0 +1,44 @@
+{
+  "project": {
+    "route": "/ecosystemsupport",
+    "name": "Ecosystem Support",
+    "description": "",
+    "github": "",
+    "subpage": "https://ess.ethereum.org/"
+  },
+  "team": {
+     "person": {
+       "name": "Ken Ng",
+       "role": "Ecosystem Support - ** Organizer (role not finalized :))",
+       "bio": "--- will complete later ---",
+       "pic": "https://pbs.twimg.com/profile_images/1167416762243190791/AqVY97bq_400x400.jpg",
+       "pic2": "",
+       "github": "https://github.com/nkennethk",
+       "twitter": "https://twitter.com/nkennethk",
+       "linkedin": "https://linkedin.com/in/nkenneth",
+       "keybase": ""
+     },
+    "person2": {
+      "name": "Robbie Bent",
+      "role": "Developer Strategy + Partnerships",
+      "bio": "I love helping people that work in the Ethereum ecosystem. I'm passionate about building developer communities, improving the developer experience and helping Ethereum partners find sustainable business models.",
+      "pic": "https://www.dropbox.com/s/8wucinshjjzmx7k/Robbie%20Profile%201.png?dl=0",
+      "pic2": "https://www.dropbox.com/s/069nzz8g8d2nyq4/IMG_5980.JPG?dl=0",
+      "github": "",
+      "twitter": "https://twitter.com/robbiebent1",
+      "linkedin": "https://www.linkedin.com/in/robbiebent/",
+      "keybase": ""
+    },
+    "person3": {
+      "name": "Kartik Talwar",
+      "role": "Ecosystem Support",
+      "bio": "Co-founder of ETHGlobal. Helping advance this ecosystem but supporting amazing developers enter and contribute to Ethereum",
+      "pic": "http://acapital.com/wp-content/uploads/2019/01/kartik-talwar-headshot.jpg",
+      "pic2": "",
+      "github": "https://github.com/kartiktalwar",
+      "twitter": "https://twitter.com/TheRealKartik",
+      "linkedin": "",
+      "keybase": ""
+    }
+  }
+}
